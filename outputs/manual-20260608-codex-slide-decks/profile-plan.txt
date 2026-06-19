@@ -1,0 +1,22 @@
+task mode: create
+primary deck-profile: engineering-platform
+secondary profile gates: strategy-leadership
+required proof objects:
+- article overview
+- workflow map
+- principle slides
+- prompt template slide
+- practice checklist
+source/asset requirements:
+- use the OpenAI Developers article "Generate slide decks" as the primary source
+- keep all diagrams and layout elements editable
+- avoid unofficial brand marks
+brand authenticity constraints:
+- use text references to Codex and OpenAI; do not invent logos
+- rely on color, typography, and abstract shapes instead of synthetic branding
+profile-specific QA gates:
+- every slide needs a teaching claim, not just article excerpts
+- contact sheet should show varied layouts
+- principle slides should feel reusable for study and live explanation
+known missing inputs:
+- no user-provided logo or existing template deck

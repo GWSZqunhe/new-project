@@ -1,0 +1,26 @@
+{"kind":"deck","id":"pr/snwabq","name":"Deck"}
+{"kind":"layout","layoutId":"abc809fa-0816-4905-a470-aabec2c81aaa","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"6f471bd5-58ba-4728-886b-654136e63b4f","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/h9dmfr","slide":1,"title":"深圳市中跃人力资源有限公司","textShapes":11}
+{"kind":"shape","id":"sh/6xkf6dcb","slide":1,"bbox":[20,20,2008,608]}
+{"kind":"shape","id":"sh/hk3q5o7q","slide":1,"bbox":[92,84,370,468]}
+{"kind":"shape","id":"sh/oza1gvy9","slide":1,"bbox":[514,188,990,260]}
+{"kind":"shape","id":"sh/zqtcj6to","slide":1,"bbox":[1380,86,500,500]}
+{"kind":"shape","id":"sh/65wjudg7","slide":1,"bbox":[1445,146,360,360]}
+{"kind":"shape","id":"sh/hwfyxobm","slide":1,"bbox":[514,383,520,12]}
+{"kind":"textbox","id":"sh/zupwb2hw","slide":1,"text":"深圳市中跃人力资源有限公司","textPreview":"深圳市中跃人力资源有限公司","textChars":13,"textLines":1,"bbox":[602,72,1120,74]}
+{"kind":"textbox","id":"sh/a9w3m94f","slide":1,"text":"李小飞","textPreview":"李小飞","textChars":3,"textLines":1,"bbox":[521,248,820,112]}
+{"kind":"textbox","id":"sh/8bat47y1","slide":1,"text":"企业人力资源贴心伙伴","textPreview":"企业人力资源贴心伙伴","textChars":10,"textLines":1,"bbox":[1114,240,620,52]}
+{"kind":"textbox","id":"sh/1w7mp0bi","slide":1,"text":"手机: 19837712568","textPreview":"手机: 19837712568","textChars":15,"textLines":1,"bbox":[530,444,540,40]}
+{"kind":"textbox","id":"sh/q5o7qpg3","slide":1,"text":"座机: 0755-28997003","textPreview":"座机: 0755-28997003","textChars":17,"textLines":1,"bbox":[530,490,540,40]}
+{"kind":"textbox","id":"sh/jqh0fepk","slide":1,"text":"邮箱: 137522741@qq.com","textPreview":"邮箱: 137522741@qq.com","textChars":20,"textLines":1,"bbox":[530,536,700,40]}
+{"kind":"textbox","id":"sh/8nqxs72x","slide":1,"text":"地址: 广东省深圳市龙岗区平湖街道众和街3号吉发大厦302室","textPreview":"地址: 广东省深圳市龙岗区平湖街道众和街3号吉发大厦302室","textChars":30,"textLines":1,"bbox":[530,575,940,42]}
+{"kind":"shape","id":"sh/18jqh0fe","slide":1,"bbox":[1548,282,238,64]}
+{"kind":"textbox","id":"sh/qh0fepkz","slide":1,"text":"人力资源","textPreview":"人力资源","textChars":4,"textLines":1,"bbox":[1548,292,238,40]}
+{"kind":"shape","id":"sh/j2t83itg","slide":1,"bbox":[1768,282,214,64]}
+{"kind":"textbox","id":"sh/crmhk3q5","slide":1,"text":"劳务派遣","textPreview":"劳务派遣","textChars":4,"textLines":1,"bbox":[1768,292,214,40]}
+{"kind":"shape","id":"sh/1cfa9w3m","slide":1,"bbox":[1656,366,238,64]}
+{"kind":"textbox","id":"sh/5wjudg7a","slide":1,"text":"网络招聘","textPreview":"网络招聘","textChars":4,"textLines":1,"bbox":[1656,376,238,40]}
+{"kind":"textbox","id":"sh/gbq1oryt","slide":1,"text":"专注灵活用工、劳务派遣与网络招聘服务","textPreview":"专注灵活用工、劳务派遣与网络招聘服务","textChars":18,"textLines":1,"bbox":[1520,574,380,30]}
+{"kind":"image","id":"im/1w7mp0bi","slide":1,"name":"","alt":"中跃品牌标识，来自用户提供的参考图","bbox":[122,230,308,150]}
+{"kind":"notes","id":"nt/h9dmfr","slide":1,"text":""}

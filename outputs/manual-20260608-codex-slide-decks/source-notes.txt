@@ -1,0 +1,16 @@
+Primary source
+- OpenAI Developers, Codex use case: "Generate slide decks"
+- URL: https://developers.openai.com/codex/use-cases/generate-slide-decks
+- Accessed: 2026-06-08
+
+Key points extracted
+- The workflow is for manipulating PPTX files and using image generation to automate slide creation.
+- Best fits teams turning notes into repeatable decks, creating decks from scratch, or rebuilding decks from screenshots, PDFs, or references.
+- The article recommends starting from an existing branded deck when possible.
+- Slides should remain editable: text stays text, simple charts stay native charts where practical.
+- Visual generation should be intentional and stylistically consistent across the deck.
+- Prompt instructions should be explicit slide by slide.
+- Validation before delivery should include rendered review and overflow/font checks.
+
+Deck design note
+- This study deck uses abstract shapes and editable diagrams instead of logos or unofficial marks.

@@ -1,0 +1,10 @@
+Reference audit
+- No source template deck was supplied by the user.
+- The output therefore follows a fresh teaching-oriented visual system.
+- The article itself is treated as the source story, not as a slide design reference.
+
+Anti-patterns avoided
+- dumping the article into dense text slides
+- relying on a single repeated card grid on every slide
+- turning the entire deck into raster images
+- presenting prompt examples without explaining why they work

@@ -1,0 +1,633 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/okc1q0",
+    "id": "okc1q0",
+    "slide": 9,
+    "layoutId": "9b79ae75-3a68-40fd-a145-19a5290ce6fb",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "235c9a96-e4dd-40fa-87d1-b06925312997",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Aptos",
+      "Aptos Display",
+      "Menlo"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "9b79ae75-3a68-40fd-a145-19a5290ce6fb",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "235c9a96-e4dd-40fa-87d1-b06925312997",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "235c9a96-e4dd-40fa-87d1-b06925312997",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bat47y1k",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#F7F1E7",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4vmtwra5",
+      "id": "2",
+      "bbox": [
+        -64,
+        -58,
+        190,
+        190
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#F8D7CF",
+      "lineColor": "#F8D7CF",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tgfmlkjm",
+      "id": "3",
+      "bbox": [
+        1128,
+        568,
+        190,
+        190
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#D7D4CE",
+      "lineColor": "#D7D4CE",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m1cfa9w3",
+      "id": "4",
+      "bbox": [
+        72,
+        48,
+        930,
+        52
+      ],
+      "geometry": "rect",
+      "text": "A reusable starter prompt",
+      "textPreview": "A reusable starter prompt",
+      "resolvedFontSize": 28,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 28,
+        "typeface": "Aptos Display",
+        "color": "#1D1D23",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "A reusable starter prompt"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "A reusable starter prompt",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Aptos Display",
+            "color": "#1D1D23",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "A reusable starter prompt",
+              "fontSize": 28,
+              "typeface": "Aptos Display",
+              "color": "#1D1D23",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bm58z25k",
+      "id": "5",
+      "bbox": [
+        72,
+        104,
+        180,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#E64B2C",
+      "lineColor": "#E64B2C",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/47y1kre1",
+      "id": "6",
+      "bbox": [
+        72,
+        152,
+        1136,
+        432
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#2C313C",
+      "lineColor": "#2C313C",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tsvu9kni",
+      "id": "7",
+      "bbox": [
+        104,
+        184,
+        1070,
+        330
+      ],
+      "geometry": "rect",
+      "text": "Use slide-editing and image-generation skills to update the deck like this:\n1. If logo.png exists, place it in the bottom-right corner on every slide.\n2. On selected slides, move text left and generate right-side illustrations in one visual style.\n3. Preserve text as text and keep simple charts native when practical.\n4. For new slides, reuse the existing branding, fonts, colors, and layout rules.\n5. Render slide previews, review them, and fix layout issues before delivery.\n6. Run overflow and font-substitution checks and save reusable visual prompts.",
+      "textPreview": "Use slide-editing and image-generation skills to update the deck like this: | 1. If logo.png exists, place it in the bottom-right corner ...",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 17,
+        "typeface": "Menlo",
+        "color": "#F9F5EF",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 7,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Use slide-editing and image-generation skills to update the deck like this:"
+          },
+          {
+            "index": 2,
+            "text": "1. If logo.png exists, place it in the bottom-right corner on every slide."
+          },
+          {
+            "index": 3,
+            "text": "2. On selected slides, move text left and generate right-side illustrations in one visual style."
+          },
+          {
+            "index": 4,
+            "text": "3. Preserve text as text and keep simple charts native when practical."
+          },
+          {
+            "index": 5,
+            "text": "4. For new slides, reuse the existing branding, fonts, colors, and layout rules."
+          },
+          {
+            "index": 6,
+            "text": "5. Render slide previews, review them, and fix layout issues before delivery."
+          },
+          {
+            "index": 7,
+            "text": "6. Run overflow and font-substitution checks and save reusable visual prompts."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Use slide-editing and image-generation skills to update the deck like this:",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Menlo",
+            "color": "#F9F5EF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Use slide-editing and image-generation skills to update the deck like this:",
+              "fontSize": 17,
+              "typeface": "Menlo",
+              "color": "#F9F5EF"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "1. If logo.png exists, place it in the bottom-right corner on every slide.",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Menlo",
+            "color": "#F9F5EF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "1. If logo.png exists, place it in the bottom-right corner on every slide.",
+              "fontSize": 17,
+              "typeface": "Menlo",
+              "color": "#F9F5EF"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "2. On selected slides, move text left and generate right-side illustrations in one visual style.",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Menlo",
+            "color": "#F9F5EF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "2. On selected slides, move text left and generate right-side illustrations in one visual style.",
+              "fontSize": 17,
+              "typeface": "Menlo",
+              "color": "#F9F5EF"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "3. Preserve text as text and keep simple charts native when practical.",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Menlo",
+            "color": "#F9F5EF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "3. Preserve text as text and keep simple charts native when practical.",
+              "fontSize": 17,
+              "typeface": "Menlo",
+              "color": "#F9F5EF"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "4. For new slides, reuse the existing branding, fonts, colors, and layout rules.",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Menlo",
+            "color": "#F9F5EF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "4. For new slides, reuse the existing branding, fonts, colors, and layout rules.",
+              "fontSize": 17,
+              "typeface": "Menlo",
+              "color": "#F9F5EF"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 6,
+          "text": "5. Render slide previews, review them, and fix layout issues before delivery.",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Menlo",
+            "color": "#F9F5EF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "5. Render slide previews, review them, and fix layout issues before delivery.",
+              "fontSize": 17,
+              "typeface": "Menlo",
+              "color": "#F9F5EF"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 7,
+          "text": "6. Run overflow and font-substitution checks and save reusable visual prompts.",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Menlo",
+            "color": "#F9F5EF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "6. Run overflow and font-substitution checks and save reusable visual prompts.",
+              "fontSize": 17,
+              "typeface": "Menlo",
+              "color": "#F9F5EF"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m58z25kb",
+      "id": "8",
+      "bbox": [
+        72,
+        616,
+        620,
+        24
+      ],
+      "geometry": "rect",
+      "text": "If you understand this slide, you understand the article’s operating language.",
+      "textPreview": "If you understand this slide, you understand the article’s operating language.",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Aptos",
+        "color": "#E64B2C",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "If you understand this slide, you understand the article’s operating"
+          },
+          {
+            "index": 2,
+            "text": "language."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "If you understand this slide, you understand the article’s operating language.",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Aptos",
+            "color": "#E64B2C",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "If you understand this slide, you understand the article’s operating language.",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#E64B2C",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bq1oryts",
+      "id": "9",
+      "bbox": [
+        72,
+        684,
+        860,
+        18
+      ],
+      "geometry": "rect",
+      "text": "Source: OpenAI Developers · Codex use case · Generate slide decks",
+      "textPreview": "Source: OpenAI Developers · Codex use case · Generate slide decks",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 11,
+        "typeface": "Aptos",
+        "color": "#5F6472",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Source: OpenAI Developers · Codex use case · Generate slide decks"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Source: OpenAI Developers · Codex use case · Generate slide decks",
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "typeface": "Aptos",
+            "color": "#5F6472",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Source: OpenAI Developers · Codex use case · Generate slide decks",
+              "fontSize": 11,
+              "typeface": "Aptos",
+              "color": "#5F6472"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3ex0nuxc",
+      "id": "10",
+      "bbox": [
+        1140,
+        680,
+        70,
+        22
+      ],
+      "geometry": "rect",
+      "text": "9/10",
+      "textPreview": "9/10",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 12,
+        "typeface": "Aptos",
+        "color": "#2C313C",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "9/10"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "9/10",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Aptos",
+            "color": "#2C313C",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "9/10",
+              "fontSize": 12,
+              "typeface": "Aptos",
+              "color": "#2C313C",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}
