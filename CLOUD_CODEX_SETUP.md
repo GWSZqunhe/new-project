@@ -6,15 +6,16 @@
 
 - 本机 `codex` 已安装。
 - 当前已经使用 ChatGPT 登录，本地认证可用。
-- 这个仓库还没有连接 Git 远程仓库。
+- GitHub 仓库已就绪：`https://github.com/GWSZqunhe/new-project`
+- 默认分支：`main`
 
 ## 还差的步骤
 
-1. 把这个项目推到 GitHub。
-2. 打开 [Codex Web](https://chatgpt.com/codex)。
-3. 连接 GitHub 账号。
-4. 在 Codex 里选择这个 GitHub 仓库。
-5. 在环境设置里按项目需要补 setup script。
+1. 打开 [Codex Web](https://chatgpt.com/codex)。
+2. 确认 GitHub 账号已连接。
+3. 在 Codex 里选择 `GWSZqunhe/new-project`。
+4. 在环境设置里按项目需要补 setup script。
+5. 用下方首次测试任务验证 Cloud Codex 能读取仓库规则。
 
 ## 推荐的环境设置
 
@@ -31,6 +32,7 @@ fi
 ## 重要说明
 
 - Cloud Codex 需要 GitHub 云端仓库，只有本地 Git 仓库还不够。
+- 当前仓库已经推到 GitHub，Cloud Codex 可以直接选择该仓库。
 - Cloud Codex 需要 ChatGPT 登录，不是单靠 API key。
 - setup script 阶段默认可联网，agent 正式执行阶段默认不开公网访问。
 - Secrets 只在 setup script 阶段可用，不会保留到 agent 执行阶段。
